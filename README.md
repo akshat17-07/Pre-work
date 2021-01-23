@@ -1,10 +1,10 @@
-## NAME_OF_YOUR_APP_HERE
+## HelloWord
 
 ### App Description
 `TODO://` This app changes the color of the font when we click on change colour option
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+https://github.com/akshat17-07/Pre-work/blob/main/Pre-work-final.gif
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
